@@ -1,0 +1,9 @@
+{
+  "name": "EduMagic AI Pro",
+  "description": "An all-in-one assistant for educators to instantly correct student work, generate customized learning materials, create visual aids, and interact via voice using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
